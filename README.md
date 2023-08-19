@@ -1,1 +1,1 @@
-salt-n-pepper-clonee.netlify.app
+https://salt-n-pepper-clonee.netlify.app/
