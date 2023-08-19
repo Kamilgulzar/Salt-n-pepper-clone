@@ -1,1 +1,1 @@
-https://salt-n-pepper-by-kamil.netlify.app/
+salt-n-pepper-clonee.netlify.app
