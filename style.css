@@ -1,0 +1,245 @@
+.mainlogo {
+    height: 70px;
+    padding-left: 60px;
+}
+
+.nav-bar {
+    height: 100px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.nav-flex {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    width: 50%;
+    padding: 15px 100px;
+    align-items: first baseline;
+
+}
+
+.btn1 {
+background-color: transparent;
+color: white;
+border: 1px solid white;
+padding:15px ;
+border-radius: 30px;
+}
+
+.btn2 {
+    background-color: red;
+    color: white;
+    padding:15px ;
+    border-radius: 30px;
+
+}
+
+.scheme-img {
+    width: 100%;
+}
+
+.maindiv {
+    background-color: black;
+    padding: 20px;
+}
+
+.para1 {
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+}
+
+.para2 {
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: solid;
+}
+
+.para3 {
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: solid;
+}
+
+.under-img {
+    display: flex;
+    padding: 30px;
+    justify-content: center;
+}
+
+.rst-img {
+    background-color: #fff;
+    padding: 20px;
+
+}
+
+.express-img {
+    background-color: #fff;
+    padding: 20px;
+}
+.village-img {
+    background-color: #fff;
+    padding: 10px;
+}
+
+.bbt {
+    border: 1px solid black;
+    padding:15px ;
+    border-radius: 30px;
+    background-color: transparent;
+    color: black;
+}
+
+.p-location {
+    background-color: rgba(0, 0, 0, 0.918);
+    padding: 20px;
+}
+.p1 {
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    margin-top: -20px;
+}
+
+.p2 {
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    margin-top: -30px;
+
+}
+
+.p3 {
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    margin-top: -30px;
+
+}
+
+.city {
+    color: red;
+}
+
+.direction {
+    border: 1px solid white;
+    border-radius: 80px;
+    color: white;
+    background-color: transparent;
+}
+
+i.isl {
+    width: 150px;
+    height: 150px;
+}
+
+.isl {
+   color: #fff;
+   padding-left: 40px;
+}
+
+
+
+
+i.fsd {
+    width: 100px;
+    height: 100px;
+}
+
+.maindiv2 {
+    background-color: black;
+    padding: -60px;
+}
+
+.subdiv {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.fsd {
+    color: #fff;
+    padding-left: 40px;
+}
+
+.subdiv2 {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.subdiv3 {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.bwp {
+    color: white;
+    padding-right: 40px;
+}
+
+.maindiv3 {
+  background-color: black;
+  width: 100%;
+  padding: 100px;
+  color: #fff;
+  text-align: center;
+  font-size: 50px;
+}
+
+.moto {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.para {
+    font-size: 20px;
+}
+
+
+.nloc {
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.mloc {
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.ploc {
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.buttn {
+    border: 1px solid white;
+    border-radius: 80px;
+    color: white;
+    background-color: transparent;
+}
